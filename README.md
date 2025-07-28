@@ -15,4 +15,4 @@ Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e
 
 ## 🌐 Visualize o projeto:
 
-**[Ver Projeto Online]()**
+**[Ver Projeto Online](https://anafortunato27.github.io/food-landing-page)**
